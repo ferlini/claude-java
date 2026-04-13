@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /Users/jingling/cc-learning/git/tqh-bus-ticket/src/main/java/com/tqh/bus/ticket)",
+      "Bash(mkdir -p /Users/jingling/cc-learning/git/tqh-bus-ticket/src/main/resources)",
+      "Bash(mkdir -p /Users/jingling/cc-learning/git/tqh-bus-ticket/src/test/java/com/tqh/bus/ticket/config)",
+      "Bash(mvn test:*)"
+    ]
+  },
+  "enabledMcpjsonServers": [
+    "github"
+  ]
+}
